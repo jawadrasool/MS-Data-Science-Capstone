@@ -1,4 +1,4 @@
-# Predicting the Student Loan Repayment
+# MS Data Science Capstone Project: Predicting the Student Loan Repayment
 
 This capstone project was part of **Microsoft Professional Program in Data Science**. 
 
